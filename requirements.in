@@ -1,0 +1,18 @@
+# Hyperliquid SDK
+hyperliquid-python-sdk
+
+# Ethereum & Web3
+eth-account
+web3
+
+# Configuration
+python-dotenv
+pyyaml
+
+# Data & Math
+pandas
+numpy
+
+# Utilities
+requests
+
